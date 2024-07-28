@@ -1,0 +1,37 @@
+#parent{
+    width: 500px;
+    height: 500px;
+    border-color:black;
+    border-style: solid;
+    border-width: 5;
+    background-color: aqua;
+    margin: auto;
+}
+#child{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+
+}
+
+#child2 button{
+    margin-top: 50;
+    height: 60px;
+    width: 120px;
+    color: red;
+}
+#child1{
+    font-size: 50px;
+}
+
+#dec{
+    background-color: violet;
+}
+
+#inc{
+    background-color:pink;
+}
+
+#res{
+    background-color: gray;
+}
